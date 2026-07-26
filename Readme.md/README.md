@@ -106,7 +106,36 @@ Proyecto_Final/
 - RStudio
 
 ## Paquetes
+# Análisis Final
 
+## Pregunta de análisis
+
+¿Existe una relación entre el ingreso per cápita y el gasto per cápita de los hogares de la región Junín según la ENAHO 2024?
+
+## Planteamiento del problema
+
+Durante el análisis exploratorio de datos se identificó una relación entre los niveles de ingreso y gasto de los hogares. Por ello, se busca analizar si los hogares con mayores ingresos presentan también mayores niveles de gasto per cápita.
+
+## Metodología
+
+Para responder la pregunta planteada se realizó un análisis adicional utilizando:
+
+- Cálculo de la correlación entre ingreso y gasto per cápita.
+- Modelo de regresión lineal simple.
+- Gráfico de dispersión con línea de tendencia.
+
+## Resultados
+
+El análisis muestra una relación positiva entre el ingreso per cápita y el gasto per cápita de los hogares de Junín.
+
+Los resultados indican que, a medida que aumenta el ingreso disponible del hogar, también tiende a incrementarse el gasto realizado.
+
+## Conclusiones finales
+
+- Existe una asociación positiva entre ingreso y gasto per cápita.
+- Los hogares con mayores ingresos presentan una mayor capacidad de consumo.
+- El análisis final confirma el patrón observado durante el análisis exploratorio inicial.
+- La información de la ENAHO 2024 permite identificar características económicas de los hogares de la región Junín.
 - haven
 - tidyverse
 - ggplot2
